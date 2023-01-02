@@ -1,13 +1,3 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-
-  <groupId>org.jacoco</groupId>
-  <artifactId>root</artifactId>
-  <version>0.8.4</version>
-  <packaging>pom</packaging>
-
-  <modules>
-    <module>org.jacoco.build</module>
-  </modules>
-
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6202a18d827bfed80f003bd3452b9708e042c2db80b831d6c810c8c8c2e34e5
+size 439
